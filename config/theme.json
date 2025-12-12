@@ -18,7 +18,7 @@
         "background": {
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
-            "custom-image": "",
+            "custom-image": "https://i.imgur.com/uBTVNW8.png",
             "logoImage": "https://i.imgur.com/FYrNeQG.png",
             "background-anim": "snow"
         },
