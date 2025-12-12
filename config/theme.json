@@ -16,7 +16,7 @@
             "action": "#404040"
         },
         "background": {
-            "main": "#050505",
+            "main": "#8427F5",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "https://i.imgur.com/uBTVNW8.png",
             "logoImage": "https://i.imgur.com/FYrNeQG.png",
@@ -45,6 +45,9 @@
             "defaultListView": false,
             "defaultLanguage": "en",
             "appTitle": "PEXOF"
+        },
+        "fixed": {
+            "titleBar": "#8427F5"
         }
     }
 }
