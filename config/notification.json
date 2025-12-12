@@ -1,3 +1,14 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "PROVA TITOLO",
+            "message": "PROVA MESSAGGIO",
+            "startDate": "2025-12-12T21:05:23Z",
+            "endDate": "2025-12-12T21:10:23Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        }
+    ]
 }
