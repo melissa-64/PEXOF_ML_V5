@@ -1,3 +1,18 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "bo7-wz-zeroaim",
+            "name": "BO7-WZ ZeroAim",
+            "categoryId": "bo7",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Zero.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        }
+    ]
 }
