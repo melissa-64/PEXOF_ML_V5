@@ -9,6 +9,16 @@
             "endDate": "2025-12-12T21:10:23Z",
             "displayDuration": 5000,
             "priority": "normal"
+        },
+        {
+            "id": "notif2",
+            "type": "discount",
+            "title": "PROVA SCONTO",
+            "message": "SCONTO DEL 50% CON IL CODICE \"SUCA\"",
+            "startDate": "2025-12-12T21:07:44Z",
+            "endDate": "2025-12-12T21:12:44Z",
+            "displayDuration": 5000,
+            "priority": "normal"
         }
     ]
 }
