@@ -27,6 +27,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "bo7-bo6-wz-noah",
+            "name": "BO7-BO6-WZ Noah",
+            "categoryId": "bo7",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/CnqBufdM.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
