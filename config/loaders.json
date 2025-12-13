@@ -13,6 +13,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "dma-blurred",
+            "name": "DMA Blurred",
+            "categoryId": "bo7",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Blurred.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
