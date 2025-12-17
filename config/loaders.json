@@ -53,30 +53,7 @@
             "instructions": "",
             "systemRequirement": {
                 "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": true,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    }
-                ]
+                "requirements": []
             }
         }
     ]
