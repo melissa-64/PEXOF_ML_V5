@@ -55,6 +55,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "bo7-b06-wz-fecurity-v2",
+            "name": "BO7-B06-WZ Fecurity V2",
+            "categoryId": "bo7",
+            "downloadUrl": "https://download1077.mediafire.com/ry7kbjg2uv6g3HpmT3PPN1--JNbth8THai9ibaNNGtZvHVSNQSbbx0TjxdDP5kL6Bfb99ktCMmfZbi0GREcaRq0po7pz28cPsd016zIL9HAZ8yYv9F7KxVfVRL1RgrfQUwEpFTgVabJOq7pKU5L_iOFujy8F_Eao5xp7ivoGB91Itou7/h8fx3ag11f105og/DiscordSetup+%281%29.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
