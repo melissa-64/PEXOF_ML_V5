@@ -41,20 +41,6 @@
                 "enabled": false,
                 "requirements": []
             }
-        },
-        {
-            "id": "bo7-bo6-wz-temp-spoofer",
-            "name": "BO7-BO6-WZ Temp Spoofer",
-            "categoryId": "others",
-            "downloadUrl": "https://geekfiles.to/update/Hello.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": "",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": []
-            }
         }
     ]
 }
