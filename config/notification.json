@@ -3,10 +3,10 @@
         {
             "id": "notif1",
             "type": "announcement",
-            "title": "Prova",
-            "message": "prova",
-            "startDate": "2025-12-18T16:50:28Z",
-            "endDate": "2025-12-18T17:00:28Z",
+            "title": "test",
+            "message": "test",
+            "startDate": "2026-01-15T14:55:14Z",
+            "endDate": "2026-01-15T15:00:14Z",
             "displayDuration": 5000,
             "priority": "normal"
         }
