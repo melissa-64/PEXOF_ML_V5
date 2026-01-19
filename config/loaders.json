@@ -83,6 +83,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "bo7-wz-new-rage-external",
+            "name": "BO7-WZ NEW RAGE EXTERNAL",
+            "categoryId": "bo7",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Loader_blitz.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
